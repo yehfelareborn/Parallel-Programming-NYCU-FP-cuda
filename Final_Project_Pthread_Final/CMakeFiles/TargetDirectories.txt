@@ -1,0 +1,3 @@
+/home/eric/PP/Final_Project_Pthread/CMakeFiles/DisplayImage.dir
+/home/eric/PP/Final_Project_Pthread/CMakeFiles/edit_cache.dir
+/home/eric/PP/Final_Project_Pthread/CMakeFiles/rebuild_cache.dir
